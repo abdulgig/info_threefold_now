@@ -12,4 +12,3 @@ An internet created by all of us for all of us.
 
 
 
-*info from: https://www.thesocialmediahat.com/blog/the-internet-then-and-now-infograph/*
