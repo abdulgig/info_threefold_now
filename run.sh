@@ -1,2 +1,3 @@
 set +ex
-tfweb -c websitesandwikis.toml
+tfweb -c config.toml
+
