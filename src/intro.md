@@ -6,7 +6,7 @@ ThreeFold has created the largest peer-to-peer cloud on the planet — but the i
 
 From publishing to video hosting, communication to project management, ThreeFold has developed a suite of turnkey solutions for end-users to create, share and build on the decentralized and secure ThreeFold Grid. 
 
-The internet of tomorrow, available today — this is ThreeFold Now.  
+**The internet of tomorrow, available today — this is ThreeFold Now.**  
 
 ## Why It Matters
 
