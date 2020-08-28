@@ -7,8 +7,8 @@ If you have any input, would like to see additions, or a cool idea, feel free to
 If you need any support please visit [our website](https://www.threefold.io) and use the chat widget in the bottom right of your screen. Our team will answer your questions as soon as possible.
 
 
-- This wiki will be hosted on: infonow.threefold.me/io
-- The main marketplace is hosted on now.threefold.me/io
+- This wiki will be hosted on: now.threefold.me/io
+- The main marketplace is hosted on marketplace.threefold.me/io
 
 
 ### to run locally (to update once new links are available)
