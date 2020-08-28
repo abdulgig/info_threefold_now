@@ -19,8 +19,8 @@ If you need any support please visit [our website](https://www.threefold.io) and
 ### get the documents (content) using git
 
 ```bash
-mkdir -p ~/code/github/threefoldfoundation
-cd ~/code/github/threefoldfoundation
+mkdir -p ~/code/github/info_threefold_now
+cd ~/code/github/info_threefold_now
 #git clone https://github.com/threefoldfoundation/info_threefold_now/ -b development
 #if you have your ssh key for github and you edit use
 git clone git@github.com:threefoldfoundation/info_threefold_now.git -b development
