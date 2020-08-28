@@ -1,4 +1,4 @@
-# info_internet9
+# ThreeFold Now
 
 Welcome to the internet9  Wiki.
 
