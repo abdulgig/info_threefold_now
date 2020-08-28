@@ -7,7 +7,8 @@ If you have any input, would like to see additions, or a cool idea, feel free to
 If you need any support please visit [our website](https://www.threefold.io) and use the chat widget in the bottom right of your screen. Our team will answer your questions as soon as possible.
 
 
-This wiki is hosted on: TBD
+- This wiki will be hosted on: infonow.threefold.me/io
+- The main marketplace is hosted on now.threefold.me/io
 
 
 ### to run locally (to update once new links are available)
@@ -20,15 +21,15 @@ This wiki is hosted on: TBD
 ```bash
 mkdir -p ~/code/github/threefoldfoundation
 cd ~/code/github/threefoldfoundation
-#git clone https://github.com/threefoldfoundation/info_threefold/ -b development
+#git clone https://github.com/threefoldfoundation/info_threefold_now/ -b development
 #if you have your ssh key for github and you edit use
-git clone git@github.com:threefoldfoundation/info_threefold.git -b development
+git clone git@github.com:threefoldfoundation/info_threefold_now.git -b development
 ```
 
 ### run the server
 
 ```bash
-cd ~/code/github/threefoldfoundation/info_threefold
+cd ~/code/github/threefoldfoundation/info_threefold_now
 #will open local browser
 run.sh
 ```
