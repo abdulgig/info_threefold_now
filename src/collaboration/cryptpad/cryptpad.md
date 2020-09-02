@@ -25,29 +25,29 @@ The ThreeFold team uses it for internal documents and collaboration, and now so 
 
 ### A richt text editor
 This is an alternative to Word and Google Docs.  Is allows to create documents and collaborate with others to create documents.  Cryptpad supports multi user access to documents for co-editing and collaborations.  The sharing facility uses unique access keys allowing other to see the content unencrypted
-![](img/rich_text_editor.png)
+![](./img/rich_text_editor.png)
 
 ### A code editor
 The code editor 
-![](img/code_editor.png)
+![](./img/code_editor.png)
 
 ### A presentation creation tool
-![](img/presentation.png)
+![](./img/presentation.png)
 
 ### A spreadsheet creator and editor
-![](img/spreadsheet.png)
+![](./img/spreadsheet.png)
 
 ### A poll creation tool
-![](img/poll.png)
+![](./img/poll.png)
 
 ### A Kanban project management tool
-![](img/kanban.png)
+![](./img/kanban.png)
 
 ### A Whiteboard tool
-![](img/whiteboard.png)
+![](./img/whiteboard.png)
 
 ### An encrypted drive to store files.
-![](img/drive.png)
+![](./img/drive.png)
 
 ![](./img/cryptpad0.png)
 
