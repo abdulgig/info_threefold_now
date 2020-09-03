@@ -1,6 +1,6 @@
-## Publisher Website
+## Website Management
 
-
+![](./img/website_browser.png)
 
 Our own website runs in it
 See: https://www.threefold.io/

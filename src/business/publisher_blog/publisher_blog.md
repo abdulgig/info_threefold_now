@@ -1,6 +1,10 @@
-## Publisher Blog
+## Blog Management
 
+<!-- 
+Image with browser window works better (I think)
 ![](./img/blog_capture.png)
+-->
+![](./img/blog_browser.png)
 
 Powerful blog system based on markdown & wiki.
 Our own blog system has been made with it.

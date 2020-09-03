@@ -17,7 +17,16 @@ While the current internet has plenty of apps, games and gadgets to keep you bus
 - Your content, their property. You spend countless hours creating and sharing content on social media, winning items in games, and building up a following. You'd think you own this digital "property", but think again — with most sites and platforms, the companies themselves actually own it, and use it to generate traffic and revenue without you receiving your fair share. And when you close your account or the game is discontinued, you lose your content and your access. 
 
 This is the way it's always been, but is it fair? We at ThreeFold think not. Which is why we're releasing decentralized and user-owned alternatives where data privacy is essential, and your creative expression is yours. 
+<!--
+Layout will probably change to follow the 
+- decentralised you
+- decentralised web
+- decentralised cloud
+dividers.  
 
+Image might to have to be updasted.
+-->
+![](./img/demo_site_overview.png)
 
 ## Features / Benefits
 
