@@ -1,5 +1,6 @@
 - [Intro](intro.md)
 - [Decentralised You](you.md)
+  - [Authentication](coders/3bot/3bot_authentication.md)
   - [Secure Office](cryptpad.md)
   - [Project Management](taiga.md)
   - [Video sharing](peertube.md)
