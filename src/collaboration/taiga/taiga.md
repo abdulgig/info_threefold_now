@@ -1,6 +1,6 @@
 # Project Management
 
-## Introductiom
+## Introduction
 We all use planning software for projects in a out personal and professional lives.  Over the last decade a moajpr shift has occured in the type of planning methodology mainly because of increased complexity in the world around us.  Originally we planned most project by using the waterwall method. The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks. 
 
 ## Waterfall method

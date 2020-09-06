@@ -8,11 +8,11 @@ Online services that provided end user friendly video conferencing facilities wh
 
 When zoom became a very popular (free of charge) video conference solution they changed the policy in terms of how you connected through their platform to others uses.  In this case if you had a free account, all free account users where connected through US based Zoom (central) infrastructure leading to very inefficient capacity usage and a very potential oversight by US agencies and authorities.  This examples is for 2 user of the zoom service with a free account based in Salzburg and Vienna.
 
-![](img/zoom_traffic.png)
+![](./img/zoom_traffic.png)
 
 In an ideal world two two users would connect direct.  No need to make this connection go through any infrastructrure that is not inline to make the connection and this can be done by creating a so called peer to peer video conferencing solution.
 
-![](img/peer2peer_traffic.png)
+![](./img/peer2peer_traffic.png)
 
 Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option.  The solution is called **FreeFlow connect**.
 
