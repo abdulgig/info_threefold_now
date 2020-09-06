@@ -26,7 +26,7 @@ In the description of the waterfall method we built a house, and most of us reco
 ## Agile tool: Taiga
 Taiga is a tool that allows you to run projects following the Agile principles.  It presents various (well known implementations of the Agile principles and allows you to manage any project in an Agile manner.
 
-![](img/taiga_frontpage.png)
+![](./img/taiga_frontpage.png)
 <!--
 Prefer the page to be shown in a window, will leave the original image for easy switch back 
 ![](./img/taiga.png)
@@ -42,11 +42,11 @@ Deploying your own instance on the grid provides you with unique featuers like:
 
 - **A private instance**.  It's your private instance running in you private virtual datacenter.
 - **Choice of location**.  Any node on the TF Grid is able to run the Taiga instance and we will make more locations to deploy going forward.
-- **Decentralised USer Authentication**.  ThreeFold uses a 2 Factor Authentication system that doe not rely on central storage of a username and password combination.  Finde more information [here](coders/../../../coders/3bot/3bot_authentication.md)
+- **Decentralised USer Authentication**.  ThreeFold uses a 2 Factor Authentication system that doe not rely on central storage of a username and password combination.  Finde more information [here](3bot_authentication.md)
 
 ### Deploy
 
-![](img/taiga_oneclick.png)
+![](./img/taiga_oneclick.png)
 
 <!-->
 create widget which does following,
