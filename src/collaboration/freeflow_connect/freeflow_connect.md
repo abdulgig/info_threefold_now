@@ -14,7 +14,7 @@ In an ideal world two two users would connect direct.  No need to make this conn
 
 ![](img/peer2peer_traffic.png)
 
-Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option
+Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option.  The solution is called **FreeFlow connect**.
 
 <!--
 ![](./img/connect.png)
@@ -22,9 +22,10 @@ Such a peer-to-peer video conferencing solution has been created and exists on t
 
 ### Deploy
 
-The 
-create widget which does following,
-widget needs to be here in iframe
+_The solution needs to appear in the threefold now one click solutions board.  Needs to be linked and an explanation (high level depending on how good the local explanation in the deployment process is needs to be provided here_
+
+_create widget which does following,
+widget needs to be here in iframe_
 
 <!--
 
