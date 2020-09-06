@@ -34,7 +34,7 @@ Prefer the page to be shown in a window, will leave the original image for easy 
 
 Taiga is an [open source project](https://github.com/taigaio) and has a commercial [Software as a Service](https://taiga.io/) version for people that don't want to have the hassle of installing and maintaining it themselves
 
-At ThreeFold we love the agility and functionality the Taigo project management software provides us with and are using it for a number of different projects we run internally.  These projects range from customer facing and partnehsip acquisition projects to ThreeFold Tech product and software development projects.  See the taiga system working here: https://circles.threefold.me/discover
+At ThreeFold we love the agility and functionality the Taigo project management software provides us with and are using it for a number of different projects we run internally.  These projects range from customer facing and partnehsip acquisition projects to ThreeFold Tech product and software development projects.  See the taiga system working [here](https://circles.threefold.me/discover)
 
 This gives you the ability to have a "one click" solution to deploy your own project management system in many of the locations where the ThreeFold grid has capacity.  We love the Taiga project and encourage you to help Taiga by paying for a commercial license (https://taiga.io/pricing). We at Threefold are planning to ask Taiga to be able to pay for license fees using TFT as part of the deployment wizard
 
