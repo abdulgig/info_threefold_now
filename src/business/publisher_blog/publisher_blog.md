@@ -12,7 +12,7 @@ Our own blog system has been made with it.
 See: https://blog.threefold.io/
 
 Link to some more info? TODO:
-
+<!-- 
 ### Deploy
 
 create widget which does following,
@@ -48,4 +48,4 @@ widget needs to be here in iframe
 
 - link to manual (TODO: check good enough)
 
-
+ -->

@@ -1,5 +1,7 @@
 # Video Conferencing
 
+![](./img/connect.png)
+
 ### Introduction
 
 Video conferencing has been around for a while and was mostly something for professional usae cases or a replacement on mobile devices for a normal phone call.  This has changed dramatically with the 2020 Covid-19 pandemic where lockdows in many areas globally have prevented people from traveling short and long distances.  So all of a sudden it was very important to not just hear another persons voice but also be able to connect visually.
@@ -20,12 +22,12 @@ Such a peer-to-peer video conferencing solution has been created and exists on t
 ![](./img/connect.png)
 -->
 
-### Deploy
+<!-- ### Deploy
 
 _The solution needs to appear in the threefold now one click solutions board.  Needs to be linked and an explanation (high level depending on how good the local explanation in the deployment process is needs to be provided here_
 
 _create widget which does following,
-widget needs to be here in iframe_
+widget needs to be here in iframe_ -->
 
 <!--
 

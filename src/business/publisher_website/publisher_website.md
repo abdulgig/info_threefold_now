@@ -4,7 +4,7 @@
 
 Our own website runs in it
 See: https://www.threefold.io/
-
+<!-- 
 ### Deploy
 
 create widget which does following,
@@ -40,4 +40,4 @@ widget needs to be here in iframe
 
 - link to manual (TODO: check good enough)
 
-
+ -->

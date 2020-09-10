@@ -1,5 +1,7 @@
 # Video Sharing
 
+![](./img/peertive_window.png)
+
 ###  What is a video sharing platform?
 In the 2010s, with the increasing prevalence of technology and the Internet in everyday life, video hosting services serve as a portal to different forms of entertainment (comedy, shows, games, or music), news, documentaries and educational videos. Content may be either be user-generated, amateur clips or commercial products. The entertainment industry uses this medium to release music and videos, movies and television shows directly to the public. Since many users do not have unlimited web space, either as a paid service, or through an ISP offering, video hosting services are becoming increasingly popular, especially with the explosion in popularity of blogs, internet forums and other interactive pages. The mass market for camera phones and smartphones has increased the supply of user-generated video. Traditional methods of personal video distribution, such as making a DVD to show to friends at home, are unsuited to the low resolution and high volume of camera phone clips. In contrast, current broadband Internet connections are well suited to serving the quality of video shot on mobile phones. Most people do not own web servers, and this has created demand for user-generated video content hosting.
 
@@ -9,8 +11,6 @@ ThreeFold advocates that video sharing can also exists without this central plat
 
 ## Decentralised video sharingn platform
 PeerTube is a free and open source video platform that was officially launched on October 11, 2018, and is intended to offer an alternative to platforms such as YouTube, Vimeo, and Dailymotion. Similar to the open source Twitter alternative Mastodon, PeerTube is decentralized, meaning that it is not hosted by a single person, company, or server. Because it is open source, anyone can make their own “Instance” or PeerTube, which can have its own appearance, account management, moderation policy and so on.
-
-![](./img/peertive_window.png)
 
 Instances can also come together to form Federations, essentially several instances that agree on the same broadcast conditions and share their videos between them. Each video is stored by the Instance that published it but can be viewed by other Instances in the Federation. In turn, Federations are distinct and independent from one another.
 
@@ -35,14 +35,14 @@ Unique characteristics of the platform
 - The PeerTube software can, whenever necessary, use a peer-to-peer protocol (P2P) to broadcast viral videos, lowering the load of their hosts.
 > Help Peertube, they are [fundraising](https://joinpeertube.org/roadmap), with little they can make this software even much better.
 
-### Deploy
+<!-- ### Deploy
 
 Create link to the threefoldnow marketplace.  Talk througf the steps / Q&A that are required to deploy a peertube
 
 - Step 1:  Get yourself a 3bot app installed on you phone for access to the TF Grid
 - Step 2: Get some digital currency (TFT, ..., ..., ...)
 - Step 3: Get a [peertube account](https://joinpeertube.org/instances)
-- Step 4: 
+- Step 4:  -->
 
 <!--
 create widget which does following,

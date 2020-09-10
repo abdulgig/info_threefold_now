@@ -1,5 +1,7 @@
 # Virtual Spaces
 
+![](./img/hubs.png)
+
 ### Taking collaboration to the next level
 
 Just like with video conferencing the recent pandemic ha schanged the way we collaborate and work together a lot.  Video conferencing is a much more accepted way to work, follow education and have family reunions and or parties.  Similar to that the ThreeFold Foundation expects that online collaboration is virtual spaces will take a flight as well as a tool to creates space to create together, to experience and collaborate on items.

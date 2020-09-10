@@ -1,6 +1,7 @@
 
 # Welcome to ThreeFold Now
 
+![](./img/demo_site_overview.png)
 
 ThreeFold has created the largest peer-to-peer cloud on the planet — but the internet is more than just storage and capacity. To fully realize the vision of an internet built for everyone, by everyone, we need easy-to-use and easy-to-deploy alternatives to the online tools and applications we use most. 
 
@@ -26,7 +27,7 @@ dividers.
 
 Image might to have to be updasted.
 -->
-![](./img/demo_site_overview.png)
+
 
 ## Features / Benefits
 

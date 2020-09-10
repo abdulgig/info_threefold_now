@@ -1,22 +1,27 @@
 - [Intro](intro.md)
-- [Decentralised You](you.md)
-  - [Authentication](coders/3bot/3bot_authentication.md)
-  - [Secure Office](cryptpad.md)
+- [Decentralized WE](web.md)
+  - [DigitalWe Room](freeflow_connect.md)
+  - [Virtual spaces](hubs.md)
   - [Project Management](taiga.md)
   - [Video sharing](peertube.md)
-  - [Video conferencing](freeflow_connect.md)
-  - [Virtual spaces](hubs.md)
-- [Decentralised Web](web.md)
-  - [Website management](publisher_website)
-  - [Wiki management](publisher_wiki)
-  - [Blog management](publisher_blog)
-  - [Relationship management](orocrm)
+  - [Website Publisher](publisher_website)
+  - [Wiki Publisher](publisher_wiki)
+  - [Blog Publisher](publisher_blog)
+  - [CRM](orocrm)
+- [Decentralized ME](you.md)
+  - [DigitalMe Colab](cryptpad.md)
+  - [DigitalMe Office](digitalme)
+  - [Financial Twin](fintwin)
+  - [Authentication](coders/3bot/3bot_authentication.md)  
 - [Decentralised Cloud](cloud.md)
+- [Decentralized Code](coders.md)
   - [Gitea](gitea.md)
   - [zeroci](zeroci.md)
-  - [blockchain](blockchain.md)
-    - [digibyte](digibyte.md)
-    - [wallet](wallet.md)  
+- [Decentralized Chain](blockchain.md)
+  - [digibyte](digibyte.md)
+
+
+  <!-- - [DigitalMe Files](digital_files.md) -->
 
 
 <!--
@@ -39,6 +44,7 @@ Remove once new structure has been agreed and approved.
   - [zeroci](zeroci.md)
 - [blockchain](blockchain.md)
   - [digibyte](digibyte.md)
+  - [wallet](wallet.md)  
 - [wallet](wallet.md)
 - [settings](settings.md)
 -->
