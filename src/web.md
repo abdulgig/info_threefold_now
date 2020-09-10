@@ -6,7 +6,7 @@ With the digital self put in the center we can reverse that model and make the d
 
 ![](./img/digital_selves_interacting.png)
 
-A similar thing is true for web other web applications.  For a Customer Relationship Management (CRM) systen you just install the application on you digitial self "platform" and you host your own application, managing storage and retrieval of you own data and allowing others (digital selves) to to access and share you data.  Simple, right? 
+A similar thing is true for web other web applications.  For a Customer Relationship Management (CRM) systen you just install the application on your digitial self "platform" and you host your own application, managing storage and retrieval of you own data and allowing others (digital selves) to to access and share you data.  Simple, right? 
 
-ThreeFold now is working on a growing set of decetralised web services for you to take forward.  The currenct list of services being worked on is:
+<!-- ThreeFold now is working on a growing set of decetralised web services for you to take forward.  The currenct list of services being worked on is: -->
 - 
