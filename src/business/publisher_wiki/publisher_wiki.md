@@ -1,6 +1,6 @@
-## Publisher Wiki
+## Wiki Management
 
-
+![](./img/wiki_browser.png)
 
 Our own website runs in it
 See: https://www.threefold.io/
