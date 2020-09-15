@@ -1,18 +1,18 @@
 # Video Conferencing
 
-![](./img/connect.png)
-
 ### Introduction
 
-Video conferencing has been around for a while and was mostly something for professional usae cases or a replacement on mobile devices for a normal phone call.  This has changed dramatically with the 2020 Covid-19 pandemic where lockdows in many areas globally have prevented people from traveling short and long distances.  So all of a sudden it was very important to not just hear another persons voice but also be able to connect visually.
+Video conferencing has been around for a while and was mostly something for professional use cases or a replacement on mobile devices for a normal phone call.  This has changed dramatically with the 2020 Covid-19 pandemic where lockdowns in many areas globally have prevented people from traveling short and long distances.  So all of a sudden it was very important to not just hear another persons voice but also be able to connect visually.
 
-Online services that provided end user friendly video conferencing facilities where in high demand and many of the providers of such services have seen a tremendous increase in usage statistics.  Using centralised services for video conferencing create silos of users that can communicate because they use the same tool, and it allows the man in the middle, the video conferencing platform to collect and market data captured by enduser usage.
+![](./img/connect.png)
 
-When zoom became a very popular (free of charge) video conference solution they changed the policy in terms of how you connected through their platform to others uses.  In this case if you had a free account, all free account users where connected through US based Zoom (central) infrastructure leading to very inefficient capacity usage and a very potential oversight by US agencies and authorities.  This examples is for 2 user of the zoom service with a free account based in Salzburg and Vienna.
+Online services providing end user friendly video conferencing facilities where in high demand and many of the providers of such services have seen a tremendous increase in usage statistics.  Using centralized services for video conferencing creates silos of users that can communicate amongst each other because they use the same tool and it allows the man in the middle, the video conferencing platform to collect and market data captured by enduser usage.  Also the business model of the video conferencing platforms is to attract and capture a growing amount of users because that increase their companies market valuation.
+
+When zoom became a very popular (free of charge) video conference solution they changed the policy of how you connected through their platform to others users.  If you have a free account, all free account users where connected through US based Zoom (central) infrastructure leading to very *inefficient* network capacity usage and a (very likely) potential oversight by US agencies and authorities.  This example is for 2 user of the zoom service with a free account based in Salzburg and Vienna.
 
 ![](./img/zoom_traffic.png)
 
-In an ideal world two two users would connect direct.  No need to make this connection go through any infrastructrure that is not inline to make the connection and this can be done by creating a so called peer to peer video conferencing solution.
+In an ideal world two users would connect direct.  No need to make this connection go through any infrastructure that is not inline to make the connection. This can be done by creating a so called peer to peer video conferencing solution.
 
 ![](./img/peer2peer_traffic.png)
 
