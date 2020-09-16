@@ -1,6 +1,6 @@
-# ThreeFold Now
+# ThreeFold NOW
 
-Welcome to the ThreeFold Now  Wiki.
+Welcome to the ThreeFold NOW  Wiki.
 
 If you have any input, would like to see additions, or a cool idea, feel free to list an issue [here](https://github.com/threefoldfoundation/info_internet9/issues), and we'll make sure to try and get it in there.
 
