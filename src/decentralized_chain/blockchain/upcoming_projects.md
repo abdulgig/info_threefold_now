@@ -1,16 +1,16 @@
-### Upcoming Projects
+# Upcoming Projects
 
-# Presearch on ThreeFold
+## Presearch on ThreeFold
 todo
 
-# Origin on ThreeFold
+## Origin on ThreeFold
 todo
 
-# Polkadot on Threefold
+## Polkadot on Threefold
 todo
 
-# Near on ThreeFold
+## Near on ThreeFold
 todo
 
-# Ethereum on ThreeFold
+## Ethereum on ThreeFold
 todo
