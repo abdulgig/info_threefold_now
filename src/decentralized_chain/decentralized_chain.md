@@ -2,7 +2,7 @@
 
 ## Decentralized Solutions on ThreeFold
 
-- [Digibyte](digibyte.md)
+  - [Digibyte](digibyte.md)
   - [NEO](neo.md)
   - [Harmony](harmony.md)
   - [Dash](dash.md)
