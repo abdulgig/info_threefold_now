@@ -23,9 +23,3 @@ For documentation please go [here](https://hubs.mozilla.com/docs/hubs-cloud-gett
 Hubs cloud is available on hosters that presents a centralised cloud platform solution or you can invest the effort to understand how to deploy a private instance of the software.  The TF Grid offers a 3 solution where you can either rent capacity anywhere on the TF Grid (please find the [explorer](https://explorer.grid.tf/) here) or even take the step of creating your own TF Grid capacity, earn some digital currency by doing so and have your own hosted infrastructure for you digital hubs where you feel confortable of having it.
 
 More details coming soon!
-
-
-Mozilla Hubs is open source software and can be found [here](https://github.com/mozilla/hubs)
-
-
-see https://hubs.mozilla.com/#/

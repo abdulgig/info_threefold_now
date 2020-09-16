@@ -54,7 +54,3 @@ Remove once new structure has been agreed and approved.
 - [wallet](wallet.md)
 - [settings](settings.md)
 -->
-
-
-
-
