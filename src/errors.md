@@ -114,14 +114,6 @@
 2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_office/orocrm/orocrm.md", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/orocrm/orocrm.md"]
 
 
-# publisher_website.md 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_website/publisher_website.md", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/website/publisher_website.md"]
-
-
-# website_browser.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_website/img/website_browser.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/website/img/website_browser.png"]
-
-
 # zoom_traffic.png 
 2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/digitalwe_room/img/zoom_traffic.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/freeflow_connect/img/zoom_traffic.png"]
 
@@ -132,26 +124,6 @@
 
 # peer2peer_traffic.png 
 2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/digitalwe_room/img/peer2peer_traffic.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/freeflow_connect/img/peer2peer_traffic.png"]
-
-
-# publisher_wiki.md 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/wiki/publisher_wiki.md", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_wiki/publisher_wiki.md"]
-
-
-# wiki_browser.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/wiki/img/wiki_browser.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_wiki/img/wiki_browser.png"]
-
-
-# publisher_blog.md 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/blog/publisher_blog.md", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_blog/publisher_blog.md"]
-
-
-# blog_browser.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/blog/img/blog_browser.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_blog/img/blog_browser.png"]
-
-
-# blog_capture.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher/blog/img/blog_capture.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_we/publisher_blog/img/blog_capture.png"]
 
 
 # decentralised_2fa_login.png 
