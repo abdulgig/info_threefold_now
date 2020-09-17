@@ -4,11 +4,9 @@
 
 ### Taking collaboration to the next level
 
-Just like with video conferencing the recent pandemic ha schanged the way we collaborate and work together a lot.  Video conferencing is a much more accepted way to work, follow education and have family reunions and or parties.  Similar to that the ThreeFold Foundation expects that online collaboration is virtual spaces will take a flight as well as a tool to creates space to create together, to experience and collaborate on items.
+Just like with [video conferencing](digitalwe_room.md) the recent pandemic has changed the way we collaborate and work together a lot.  Video conferencing is a much more accepted way to meet people,  enjoy education or have family reunions and parties.  Similar to that the ThreeFold Foundation expects that online collaboration in virtual spaces will take increase in popularity and tools to creates interesting virtual spaces will help to inspire us to enjoy virtual meetup experiences and collaborate and co-create.
 
-Mozilla Hubs is a virtual collaboration platform that runs in your browser. With Hubs you can create your own 3D spaces with a single click. Invite others to join using a URL. No installation or app store required.
-
-Hubs is for anyone who wants to connect with others remotely! It's a great way to bring communities together in a shared virtual space.
+Mozilla Hubs is a virtual collaboration platform that runs in your browser. With Hubs you can create your own 3D spaces with a single click. Invite others to join using a URL. No installation or app store required. Hubs is for anyone who wants to connect with others remotely! It's a great way to bring communities together in a shared virtual space.
 
 Host a conference, teach a class, showcase art, or just hang out with friends. Hubs makes it easy to connect and share images, videos, 3D models, and more. With Hubs' spatialized audio you can have conversations with everyone together or break out into smaller groups — just like you can in person.
 
@@ -20,6 +18,6 @@ For documentation please go [here](https://hubs.mozilla.com/docs/hubs-cloud-gett
 
 ### Hubs on the ThreeFold grid
 
-Hubs cloud is available on hosters that presents a centralised cloud platform solution or you can invest the effort to understand how to deploy a private instance of the software.  The TF Grid offers a 3 solution where you can either rent capacity anywhere on the TF Grid (please find the [explorer](https://explorer.grid.tf/) here) or even take the step of creating your own TF Grid capacity, earn some digital currency by doing so and have your own hosted infrastructure for you digital hubs where you feel confortable of having it.
+Hubs cloud is available on hosters that present a centralized cloud platform solution but you can also invest the effort to understand how to deploy a private instance of the software and experience it that way.  The TF Grid offers a solution where you can rent capacity anywhere on the TF Grid (please find the [explorer](https://explorer.grid.tf/) here) and deploy the hubs software similar to what the experiecen on a cloud would be or take it one step further and create your own TF Grid capacity, earn digital currency by doing so and have your own hosted infrastructure for your digital hubs where you feel comfortable of having it.
 
 More details coming soon!

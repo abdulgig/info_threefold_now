@@ -4,7 +4,7 @@
 
 For Wiki creation and management there are may options available in the market.  From total end-to-end solutions.  ThreeFold has created a very simple tool that allows for deployment and Wiki management with version control, automatic update and staging facilities.
 
-![](img/wiki_deployment.png)
+![](./img/wiki_deployment.png)
 
 The basic principle is that you create the content in the repository (markdown) and store it in a repository.  Content creation can be done with any tools that you have experience with (or like). The only requirement is that you store the content in a public repository. This repository can be anything that stores code and provides version controlling.  For example you can use Github, but also ThreeFold's decentralized Gitea solution.  The actual deployment of the wiki infrastructure and all required domain name setup for the wiki to be publicly available is done in the cone click (and three question) deployment.
 

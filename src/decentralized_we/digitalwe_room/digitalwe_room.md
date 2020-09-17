@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Video conferencing has been around for a while and was mostly something for professional usae cases or a replacement on mobile devices for a normal phone call.  This has changed dramatically with the 2020 Covid-19 pandemic where lockdows in many areas globally have prevented people from traveling short and long distances.  So all of a sudden it was very important to not just hear another persons voice but also be able to connect visually.
+Video conferencing has been around for a while and was mostly something for professional use cases or a replacement on mobile devices for a normal phone call.  This has changed dramatically with the 2020 Covid-19 pandemic where lockdows in many areas globally have prevented people from traveling short and long distances.  So all of a sudden it was very important to not just hear another persons voice but also be able to connect visually.
 
 Online services that provided end user friendly video conferencing facilities where in high demand and many of the providers of such services have seen a tremendous increase in usage statistics.  Using centralised services for video conferencing create silos of users that can communicate because they use the same tool, and it allows the man in the middle, the video conferencing platform to collect and market data captured by enduser usage.
 
@@ -16,7 +16,7 @@ In an ideal world two two users would connect direct.  No need to make this conn
 
 ![](./img/peer2peer_traffic.png)
 
-Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option.  The solution is called **FreeFlow connect**.
+Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option.  The solution is called **DigitalWE room**.
 
 <!--
 ![](./img/connect.png)

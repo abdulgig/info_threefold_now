@@ -7,7 +7,7 @@
   - [Harmony](harmony.md)
   - [Dash](dash.md)
   - [TomoChain](tomochain.md)
-  - [Skale Labs](Skale_labs.md)
+  - [Skale Labs](skale_labs.md)
   - [Matic](matic.md)
   - [Elrond](elrond.md)
   - [Stellar](stellar.md)
