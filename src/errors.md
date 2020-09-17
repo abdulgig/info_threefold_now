@@ -1,27 +1,3 @@
-# coders.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_code/img/coders.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_coders/img/coders.png"]
-
-
-# gitea.md 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_code/gitea/gitea.md", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_coders/gitea/gitea.md"]
-
-
-# gitea.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_code/gitea/img/gitea.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_coders/gitea/img/gitea.png"]
-
-
-# zeroci.md 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_code/zeroci/zeroci.md", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_coders/zeroci/zeroci.md"]
-
-
-# zeroci.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_code/zeroci/img/zeroci.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_coders/zeroci/img/zeroci.png"]
-
-
-# cont_integr.png 
-2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_code/zeroci/img/cont_integr.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_coders/zeroci/img/cont_integr.png"]
-
-
 # digitbyte2.png 
 2 times. in paths ["/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_chain/img/digitbyte2.png", "/Users/johndoe/code/github/threefoldfoundation/info_threefold_now/src/decentralized_chain/blockchain/digibyte/img/digitbyte2.png"]
 
