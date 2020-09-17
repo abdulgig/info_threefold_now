@@ -9,7 +9,7 @@ Powerful alternative to e.g. centralized github.
 - More info see https://gitea.io/
 
 
-
+<!-- 
 ### Deploy
 
 create widget which does following,
@@ -45,4 +45,4 @@ widget needs to be here in iframe
 ## Manual
 
 - link to manual
-
+ -->

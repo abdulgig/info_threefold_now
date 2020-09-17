@@ -11,7 +11,7 @@ ZeroCI is continuous integration system useful for all languages but has some sp
 
 (Note: version control systems supported are Github and Gitea)
 
-The containers run on top of the ThreeFold grid.
+<!-- The containers run on top of the ThreeFold grid.
 
 ### Deploy
 
@@ -52,4 +52,4 @@ remarks
 ## Manual
 
 - link to manual
-
+ -->
