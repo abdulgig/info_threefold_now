@@ -1,1 +1,1 @@
-!!!include:now:publisher_wiki.md
+!!!include:tfnow:publisher_wiki.md

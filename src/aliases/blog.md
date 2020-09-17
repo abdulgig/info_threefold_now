@@ -1,1 +1,1 @@
-!!!include:now:publisher_blog.md
+!!!include:tfnow:publisher_blog.md
